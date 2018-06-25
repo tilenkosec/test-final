@@ -7,7 +7,7 @@ w_Cleveland = 0 #variable for counter
 w_Oakland = 0 #variable for counter
 w_Warriors = 0 #variable for counter
  
-with open('C:\Users\HiperFlasH\Downloads\data3.csv') as csvfile:
+with open('C:\Users\HiperFlasH\data3.csv') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         if 'Cleveland' in row['Location']:
@@ -63,7 +63,7 @@ s_warriors = 0
 s_cavaliers = 0
 numGames = 0
  
-with open('C:\Users\HiperFlasH\Downloads\data3.csv') as csvfile:
+with open('C:\Users\HiperFlasH\data3.csv') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         numGames = numGames + 1
