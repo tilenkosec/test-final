@@ -68,7 +68,7 @@ ran_2 and ran_4 are not used.
 No comments describing how it works.
 
 
-**Surprise me** `10%` (bonus)
+**Surprise me** `0/10%` (bonus)
 
 ----
 `(10/10%)`
