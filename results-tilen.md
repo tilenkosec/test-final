@@ -80,7 +80,7 @@ No comments describing how it works.
 
 **Code readability** `20/20%`
 
-**Surprise me** `10%` (bonus)
+**Surprise me** `0/10%` (bonus)
 
 ----
 `(6/30%)`
@@ -115,14 +115,14 @@ No use of program result prediction.
 
 Hardly readable code, no comments.
 
-**Surprise me** `10%` (bonus)
+**Surprise me** `0/10%` (bonus)
 
 ------
 
 #### Criteria
  `0% - 49%` : Didn't pass.
 
- `50% - 64%`: Talk about the test solution, if there is insufficient knowledge about solved test, didn't pass.
+ `50% - 64%`: **Talk about the test solution, if there is insufficient knowledge about solved test, didn't pass.**
 
  `65% - 100%`: Passed
 
